@@ -2,11 +2,11 @@
 
 Eu sou o Edson B. de Araujo
 
-Data Analyst e estudando e desenvolvendo projetos em Data Science
+Data Analyst estudando e desenvolvendo projetos em Data Science
 
-Formado em Desenvolvimento de Softwares na Unicid Universidade de São Paulo
+Formado em Desenvolvimento de Softwares na Unicid Universidade Cidade de São Paulo
 
-Meu foco atualamente está em Data Science & Data Analyses
+Meu foco atualmente está em Data Science & Data Analyses
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonbaraujo&show_icons=true&theme=tokyonight"/>
@@ -27,5 +27,8 @@ Meu foco atualamente está em Data Science & Data Analyses
 <img align="center" alt="Edson-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 <img align="center" alt="Edson-Kagle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/>  
 <img align="center" alt="Edson-Google" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg"/>    
-<img align="center" alt="Edson-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>  
+<img align="center" alt="Edson-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="center" alt="Edson-Excel" height="50" width="60" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+  
+  
 </div>  
