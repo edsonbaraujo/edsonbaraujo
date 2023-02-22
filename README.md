@@ -2,7 +2,7 @@
 
 Eu sou o Edson B. de Araujo
 
-Data Analyst e estuadando e desenvolvendo projetos em Data Science
+Data Analyst e estudando e desenvolvendo projetos em Data Science
 
 Formado em Desenvolvimento de Softwares na Unicid Universidade de São Paulo
 
