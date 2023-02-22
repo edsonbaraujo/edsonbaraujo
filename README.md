@@ -2,11 +2,11 @@
 
 Eu sou o Edson B. de Araujo
 
-Data Analyst e me especializando em Data Science
+Data Analyst e estuadando e desenvolvendo projetos em Data Science
 
 Formado em Desenvolvimento de Softwares na Unicid Universidade de São Paulo
 
-Meu foco ataulamente está em Data Science & Data Analyses
+Meu foco atualamente está em Data Science & Data Analyses
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsonbaraujo&show_icons=true&theme=tokyonight"/>
